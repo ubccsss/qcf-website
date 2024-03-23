@@ -1,6 +1,6 @@
-baseURL: "https://ubccsss.org/"
+baseURL: "https://qcf.ubcquantum.com"
 languageCode: "en-ca"
-title: UBC CSSS
+title: UBC QCF 2024 
 theme: hugo-bootstrap-5
 
 # Get date from filename, Jekyll-style.
@@ -15,7 +15,7 @@ permalinks:
 
 paginate: 5
 
-copyright: © 2019-2024
+copyright: © 2024
 
 markup:
   goldmark:

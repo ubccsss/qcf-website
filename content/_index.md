@@ -1,13 +1,5 @@
 ---
-title: UBC Computer Science Student Society
+title: "UBC Technical Career Fair 2024"
+# date: 2023-07-29T11:01:35-07:00
+layout: tcf-main
 ---
-
-Welcome to the Computer Science Student Society, the student club for
-undergraduates at the
-[UBC Department of Computer Science](https://www.cs.ubc.ca/). We provide a
-social space where everyone’s welcome (in ICICS 021), run events, and represent
-your interests to the department. For more events you may be interested in, please follow us
-on our social media outlets.
-<br/>
-
-Join us on <a id="discord-serverhttpsdiscordggxf3wbydubf" href="https://discord.gg/xF3WbYDubF" target="_blank" rel="noreferrer">Discord</a> or <a href="https://www.instagram.com/ubc_csss" target="_blank" rel="noreferrer">Instagram</a>!

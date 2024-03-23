@@ -1,3 +1,0 @@
----
-layout: tech-consulting-main
----
